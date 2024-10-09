@@ -1,9 +1,9 @@
 ** Steps:
 
-*Data Preprocessing:
-1.Load stock price data from a CSV file.
-2.Handle missing values, non-numeric columns (Change % and Volume), and convert them into appropriate formats.
-3.Add common technical indicators: 10-day and 50-day moving averages (MA10, MA50), exponential moving average (EMA10), RSI, and MACD.
+* Data Preprocessing:
+1. Load stock price data from a CSV file.
+2. Handle missing values, non-numeric columns (Change % and Volume), and convert them into appropriate formats.
+3. Add common technical indicators: 10-day and 50-day moving averages (MA10, MA50), exponential moving average (EMA10), RSI, and MACD.
 
 *Exploratory Data Analysis:
 1.Visualize stock prices over time, distribution of closing prices, and changes in percentage.
